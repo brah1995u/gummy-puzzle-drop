@@ -1,0 +1,30 @@
+Welcome to Gummy Puzzle Drop — a colorful falling-piece puzzle game packed with glossy gummy bears, sweet matches, chain reactions, and satisfying combo rewards.
+
+Drop four-gummy shapes onto the board and plan every move. Drag pieces left or right, tap to rotate with wall kicks, and swipe down for a fast drop. Complete horizontal or vertical matches of three or more identical gummies to clear them. The remaining candy falls independently, creating fresh matches, cascades, and bigger scores.
+
+Build your combo to ×3 to earn a playable Pink Bomb that clears a 3 × 3 area. Use Hold to save an important piece, check the Next preview, follow the landing ghost, and adapt as the game becomes faster with every level.
+
+Complete achievements and rotating Daily Sugar Rush goals, build a daily streak, and compete against your best completed runs on the local leaderboard. Earn Sugar Stars through gameplay and spend them in the offline Sugar Shop on board themes, drop effects, and useful Power Treats.
+
+Power Treats work directly during a run:
+Pink Bomb transforms the active piece into an explosive 3 × 3 bomb.
+Rainbow Pop removes the most common gummy color from the board.
+Sweet Cleanup clears gummies from the danger zone.
+
+Take a quick break with Gummy Blitz, a focused 20-second mini-game featuring combos, lives, daily rewards, and Power Treat prizes.
+
+Gummy Puzzle Drop features:
+Strategic four-cell falling-piece gameplay
+Horizontal and vertical Match-3 clearing
+Independent candy gravity and multi-step cascades
+Combo scoring and playable Pink Bomb rewards
+Hold, Next, landing ghost, and responsive touch controls
+Achievements, daily challenges, streaks, and a local leaderboard
+Unlockable board themes and drop effects
+Three functional in-game Power Treats
+20-second Gummy Blitz mini-game
+Music, sound, haptics, ghost, and reduced-motion settings
+Glossy candy artwork and custom gummy-framed interface
+Fully offline play — no account, no ads, and no real-money purchases
+
+DROP. MATCH. CASCADE.
